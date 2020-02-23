@@ -1,4 +1,5 @@
 def longest_al_sub(string):
+    # return a list of the longest alphabetical substrings in the specified string
     n = len(string)
     i = j = 0
     max_len = 0
